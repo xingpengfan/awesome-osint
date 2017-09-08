@@ -416,7 +416,7 @@ This list was taken directly from [i-inteligence's](http://www.i-intelligence.eu
 * [Picodash](https://www.picodash.com)
 * [SnapMap](https://snapmap.knightlab.com/)
 * [Social Rank](https://www.socialrank.com)
-* [Tofo.me](https://tofo.me)
+* [insstar.cn](http://insstar.cn)
 * [Websta (Instagram)](http://websta.me)
 * [Worldcam](http://worldc.am)
 
